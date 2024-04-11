@@ -33,6 +33,9 @@ Before running the project, ensure you have Python and TensorFlow installed. The
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies.
+   1. ```python3 -m venv .venv```
+   2. ```. .venv/bin/activate```
+   3. ```pip3 install -r requirements.txt  ```
 3. Download the dataset from the provided links in canvas and place it in the appropriate directory structure as mentioned above.
 4. Run the main script to start the segmentation process.
 
